@@ -1,5 +1,6 @@
 +++
 title = 'Building My First Operator'
+url = 'post/building-my-first-operator'
 date = 2024-04-28T16:05:00+02:00
 Tags = ["kubernetes","operators"]
 Categories = ["operations","kubernetes"]
