@@ -16,14 +16,14 @@
   identifier = "about"
   url = "/about/"
 
-  [[main]]
-	name = "Accomplishments"
-	weight = 500
-	identifier = "accomplishments"
-
-	[[main]]
-	name = "Awards"
-	weight = 510
-	identifier = "awards"
-	url = "/awards/"
-	parent = "accomplishments"
+#  [[main]]
+#	name = "Accomplishments"
+#	weight = 500
+#	identifier = "accomplishments"
+#
+#	[[main]]
+#	name = "Awards"
+#	weight = 510
+#	identifier = "awards"
+#	url = "/awards/"
+#	parent = "accomplishments"

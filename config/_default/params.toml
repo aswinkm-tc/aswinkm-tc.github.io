@@ -1,12 +1,9 @@
-
-
 title = "Aswin KM"
 author = "Aswin KM"
 description = "My portfolio"
-profilePicture = "images/profile.JPG"
-
+profilePicture = "/images/profile.jpg"
+customCss = ["/css/syntax.css"]
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
@@ -51,8 +48,7 @@ enable = true  # options: true, false. Enable math support globally, default: fa
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 [mermaid]
-# enable = true# example ["css/custom.css"]
-customCss = []
+enable = true
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
