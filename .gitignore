@@ -36,3 +36,5 @@ hugo.linux
 # Go workspace file
 go.work
 
+# Idea
+.idea/
